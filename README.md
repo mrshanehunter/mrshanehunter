@@ -17,6 +17,8 @@ Prior to completing the Generation course \(**HTML**, **CSS**, **JavaScript** an
 
 Continuing to practice pretty much daily after the course ended, I very quickly realised that the vision I had for some of the sites I was building couldn't be achieved with JavaScript alone. Challenging myself with a steep learning curve I've been delving into more courses on **React JS**, **Redux**, **Gatsby**, and some **Next JS**, along with **Node JS**, headless CMS and serverless functions, and some **GraphQL**.
 
+[![HTML5](../assets/html5.svg?raw=true)[!CSS3](../assets/css3.svg?raw=true)[!JAVASCRIPT](../assets/javascript.svg?raw=true)[!BOOTSTRAP](../assets/bootstrap.svg?raw=true)[!NODEJS](../assets/node-dot-js.svg?raw=true)[!REACT](../assets/react.svg?raw=true)[!REDUX](../assets/redux.svg?raw=true)[!NEXT](../assets/next-dot-js.svg?raw=true)[!GATSBY](../assets/gatsby.svg?raw=true)[!GRAPHQL](../assets/graphql.svg?raw=true)[!XD](../assets/adobexd.svg?raw=true)[!PS](../assets/adobephotoshop.svg?raw=true)[!AI](../assets/adobeillustrator.svg?raw=true)[!ID](../assets/adobeindesign.svg?raw=true)]
+
 #### Focus:
 
 Working with SMEs and challenger brands in their markets to craft their story properly in order to engage and create an enduring connection with customers. For most customers, the first real contact they have with a brand is the website.  Bringing the design and development into the core of brand planning, so it looks, feels and is part of the story, not an afterthought, is my goal.
