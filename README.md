@@ -13,7 +13,7 @@
 
 #### Connect with me 
 
-[That Guy From Marketing](https://www.thatguyfrommarketing.com) [LinkedIn](https://www.linkedin.com/in/shane-hunter) [Email](webdev@thatguyfrommarketing.com)
+Via my website - [That Guy From Marketing](https://www.thatguyfrommarketing.com), or on [LinkedIn](https://www.linkedin.com/in/shane-hunter), or send me an [Email](webdev@thatguyfrommarketing.com)
 
 #### Open to Opportunities
 
