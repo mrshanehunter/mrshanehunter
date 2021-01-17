@@ -1,4 +1,4 @@
-[![Header](../assets/TGFM_GITHUB_BANNER-01.jpg?raw=true)Format: ![That Guy From Marketing Banner](https://www.thatguyfrommarketing.com)](https://www.thatguyfrommarketing.com)
+[![Header](../assets/TGFM_GITHUB_BANNER-01.jpg?raw=true)](https://www.thatguyfrommarketing.com)](https://www.thatguyfrommarketing.com)
 
 
 ### Hi there 👋
