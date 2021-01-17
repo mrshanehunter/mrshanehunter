@@ -1,21 +1,23 @@
 [![Header](../assets/TGFM_GITHUB_BANNER-01.jpg?raw=true)](https://www.thatguyfrommarketing.com)
 
 
-## Background
+#### Background
 
-## 2020
+#### 2020
 
-## Web Development
+#### Web Development
 
-## Frameworks & Libraries
+#### Frameworks & Libraries
 
-## Focus
+#### Focus
 
-## Connect with me
+#### Connect with me 
 
-## Open to Opportunities
+[That Guy From Marketing](https://www.thatguyfrommarketing.com) [LinkedIn](https://www.linkedin.com/in/shane-hunter) [Email](webdev@thatguyfrommarketing.com)
 
-## Current Projects
+#### Open to Opportunities
+
+#### Current Projects
 
 - 🔭 I’m currently working on ... updating my business site & an e-commerce web app to answer yes or no questions with tarot cards, both using Gatsby
 - 🌱 I’m currently learning ... redux and getting deeper into react
