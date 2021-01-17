@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... an e-commerce web app that provides an answer to yes or no questions with tarot cards
+- 🔭 I’m currently working on ... updating my business site & an e-commerce web app to answer yes or no questions with tarot cards, both using Gatsby
 - 🌱 I’m currently learning ... redux and getting deeper into react
 - 👯 I’m looking to collaborate on ... brand &/or marketing websites that communicate the story behind the brand
 - 🤔 I’m looking for help with ... memory leaks in react apps
