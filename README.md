@@ -7,15 +7,15 @@ Learned the practical side of brand marketing in a blue chip environment and sin
 
 #### 2020:
 
-Was not a great year to be a freelance marketer servicing SMEs. Accepting an offer from Generation Australia to enrol in their Junior Web Developer course was my way of "pivoting". Most of the year was spent studying, ultimately to broaden my offering in the freelance space. 
+Was not a great year to be a freelance marketer servicing SMEs. Accepting an offer from **Generation Australia** to enrol in their **Junior Web Developer** course was my way of "pivoting". Most of the year was spent studying, ultimately to broaden my offering in the freelance space. 
 
 #### Web Development:
 
-Prior to completing the Generation course \(HTML, CSS, JavaScript and Bootstrap\) website builds had to be outsourced. Learning how to build one myself seemed like a natural service extension. Containing the crafting of the story, contexts for different audiences and creative execution across touchpoints \(websites usually being the biggest touchpoint\) is vital for clarity and continuity.  Eliminating a link in the creative chain significantly increases the levels both. 
+Prior to completing the Generation course \(**HTML**, **CSS**, **JavaScript** and **Bootstrap**\) website builds had to be outsourced. Learning how to build one myself seemed like a natural service extension. Containing the crafting of the story, contexts for different audiences and creative execution across touchpoints \(websites usually being the biggest touchpoint\) is vital for clarity and continuity.  Eliminating a link in the creative chain significantly increases the levels both. 
 
 #### Frameworks & Libraries:
 
-Continuing to practice pretty much daily after the course ended, I very quickly realised that the vision I had for some of the sites I was building couldn't be achieved with JavaScript alone. Challenging myself with a steep learning curve I've been delving into more courses on React, Redux, Gatsby, and some Next JS, along with Node JS, headless CMS and serverless functions, and some GraphQL.
+Continuing to practice pretty much daily after the course ended, I very quickly realised that the vision I had for some of the sites I was building couldn't be achieved with JavaScript alone. Challenging myself with a steep learning curve I've been delving into more courses on **React JS**, **Redux**, **Gatsby**, and some **Next JS**, along with **Node JS**, headless CMS and serverless functions, and some **GraphQL**.
 
 #### Focus:
 
