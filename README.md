@@ -12,7 +12,7 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I started off at uni doing Computing & Information Management before switching to Commmerce in my 2nd year - and now (not quite 20years later) I've circled back
 
-##Languages
+## Languages
 
-![Custom badge](https://img.shields.io/endpoint?label=Javascript&logo=Javascript&style=flat-square&url=https%3A%2F%2Fgithub.com%2Fmrshanehunter%2Fassets)
+![Custom badge](https://img.shields.io/endpoint?label=Javascript&logo=Javascript&style=flat-square&url)
 
