@@ -1,3 +1,6 @@
+![Branded Banner](../assets/TGFM_GITHUB_BANNER-01.jpg?raw=true)
+
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... updating my business site & an e-commerce web app to answer yes or no questions with tarot cards, both using Gatsby
