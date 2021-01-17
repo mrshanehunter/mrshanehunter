@@ -17,7 +17,7 @@ Prior to completing the Generation course \(**HTML**, **CSS**, **JavaScript** an
 
 Continuing to practice pretty much daily after the course ended, I very quickly realised that the vision I had for some of the sites I was building couldn't be achieved with JavaScript alone. Challenging myself with a steep learning curve I've been delving into more courses on **React JS**, **Redux**, **Gatsby**, and some **Next JS**, along with **Node JS**, headless CMS and serverless functions, and some **GraphQL**.
 
-[![LOGO](../assets/GITHUBTECHLOGO.png?raw=true)]
+[![LOGO](../assets/GITHUBTECHLOGO-01.png?raw=true)]
 
 #### Focus:
 
