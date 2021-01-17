@@ -1,7 +1,21 @@
 [![Header](../assets/TGFM_GITHUB_BANNER-01.jpg?raw=true)](https://www.thatguyfrommarketing.com)
 
 
-### Hi there 👋
+## Background
+
+## 2020
+
+## Web Development
+
+## Frameworks & Libraries
+
+## Focus
+
+## Connect with me
+
+## Open to Opportunities
+
+## Current Projects
 
 - 🔭 I’m currently working on ... updating my business site & an e-commerce web app to answer yes or no questions with tarot cards, both using Gatsby
 - 🌱 I’m currently learning ... redux and getting deeper into react
@@ -12,7 +26,7 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I started off at uni doing Computing & Information Management before switching to Commmerce in my 2nd year - and now (not quite 20years later) I've circled back
 
-## Languages
 
-![Custom badge](https://img.shields.io/endpoint?label=Javascript&logo=Javascript&style=flat-square&url)
+
+
 
