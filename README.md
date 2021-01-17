@@ -1,4 +1,5 @@
 ![Branded Banner](../assets/TGFM_GITHUB_BANNER-01.jpg?raw=true)
+https://www.thatguyfrommarketing.com
 Format: ![That Guy From Marketing Banner](https://www.thatguyfrommarketing.com)
 
 
